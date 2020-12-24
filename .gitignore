@@ -1,1 +1,5 @@
 *.go
+.vscode/
+.idea/
+go.mod
+init.sh
